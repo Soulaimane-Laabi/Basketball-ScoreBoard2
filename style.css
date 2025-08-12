@@ -1,0 +1,29 @@
+* {
+    font-family:  "Poppins", sans-serif; 
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.first h1 {
+    text-align: center  ;
+}
+
+.teams {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+.tangier p {
+    text-align: center;
+}
+
+.tetouan p {
+    text-align: center;
+}
+
+
+
