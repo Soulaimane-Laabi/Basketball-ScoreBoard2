@@ -14,7 +14,7 @@ function tangierTwo() {
 }
 
 function tangierThree() {
-    tangierPoints += 4
+    tangierPoints += 3
     tangierEl.innerText = tangierPoints
 }
 
